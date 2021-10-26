@@ -1,0 +1,5 @@
+json-server --port 5000 --watch data.json
+
+search by param http://localhost:5000/users?fullName
+
+search by param that starts with "example" http://localhost:5000/users?fullName_like=example

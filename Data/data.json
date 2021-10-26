@@ -1,0 +1,185 @@
+{
+  "jobs": [
+    {
+      "title": "Entry Level IT Systems Engineer",
+      "description": "As an Entry Level IT Systems Engineer, you will be part of a team of IT professionals who provide in-house technical PC hardware and software support at our Draper, UT office. This will provide you with the opportunity to learn and work with a variety of equipment and issues including desktops, laptops, network connectivity, Windows software, and much more. We are looking for smart, dedicated, out of the box thinkers who are committed to teamwork and success. Basic knowledge of computer hardware and operating systems is expected. You might have some experience with Windows or Linux, databases, web servers or networking. We can supply the training and experience to match your commitment to our team.",
+      "requirements": [
+        "Bachelor’s in technical field or equivalent experience",
+        "Knowledge of computer hardware and operating systems",
+        "Desire to pursue a career in the field of Information Technology",
+        "Strong communication and organizational skills"
+      ],
+      "positionType": "Full-Time",
+      "tags": [
+        "IT",
+        "New"
+      ],
+      "location": "Draper",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Beaumont Polyethylene Plant Process Operator Intern",
+      "poster": "ExxonMobil",
+      "location": "Beaumont",
+      "positionType": "Internship",
+      "description": "This Operations and Mechanical (O&M) position requires pre-employment testing. In order to be considered for this position, candidates must complete the pre-employment test prior to the close of the requisition, Friday, October 29 2021. Candidates who complete the test after the requisition has closed will not be considered.",
+      "requirements": [
+        "Responsible for the safe and efficient operation, monitoring, and maintenance preparation of processing units and related facilities.",
+        "12-Hour Rotating Shifts, including nights, weekends, and holidays",
+        "Must be a current student at Lamar Institute of Technology or Lamar State College - Orange"
+      ],
+      "datePosted": "11/10/2021",
+      "tags": [
+        "engineer",
+        "machinery"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Business Leadership Internship",
+      "poster": "GEICO",
+      "location": "Woodbury",
+      "positionType": "Internship",
+      "description": "Looking for an internship that’s way more than just going on coffee runs? We’ve got you covered. At GEICO, our 8 to 10-week paid summer internship program is designed to give you real-world experience working on our business team. You'll gain first-hand knowledge of our dynamic industry, work on meaningful projects, and have networking opportunities with leaders throughout GEICO. We’ll also provide you with a mentor from our management team and countless opportunities to grow your skills during your internship. If you’re majoring in finance, accounting, risk management, economics, marketing, management, mathematics, general business, or something similar - this may be the perfect program for you.",
+      "requirements": [
+        "Researching insurance industry trends",
+        "Analyzing current business procedures across various departments",
+        "Developing marketing plans",
+        "Delivering presentations to management"
+      ],
+      "datePosted": "11/10/2021",
+      "tags": [
+        "Leadership"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "HR Intern",
+      "poster": "Sherwin-Williams",
+      "location": "Atlanta",
+      "positionType": "Internship",
+      "description": "Here, we believe there’s not one path to success, we believe in careers that grow with you. Whoever you are or wherever you come from in the world, there’s a place for you at Sherwin-Williams. We provide you with the opportunity to explore your curiosity and drive us forward. We’ll give you the space to share your strengths and we want you to show us what you can do. You can innovate, grow and discover in a place where you can thrive and Let Your Colors Show!",
+      "requirements": [
+        "Use the Sherwin-Williams job posting system to initiate and complete job postings.",
+        "Coordinate and communicate interview arrangements with applicants and assist with candidate screening.",
+        "Support the college recruiting effort by assisting with college career fair registrations and ensuring recruiting teams have sufficient recruiting materials.",
+        "Register employees for training classes, and monitor and report on employees with incomplete training certifications."
+      ],
+      "datePosted": "06/10/2021",
+      "tags": [
+        "HR"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ranch & Spa Receptionist",
+      "poster": "On Top of the World Communities",
+      "location": "Ocala",
+      "positionType": "Part-Time",
+      "description": "Colen Built Development provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Colen Built Development will provide reasonable accommodations for qualified individuals with disabilities.",
+      "requirements": [
+        "Must be able to read, write and understand English, have good verbal and written communication skills and write professional business correspondences",
+        "Bilingual (Spanish) preferred",
+        "Excellent communication skills, both written and verbal"
+      ],
+      "datePosted": "10/10/2021",
+      "tags": [
+        "reception"
+      ]
+    }
+  ],
+  "applications": [
+    {
+      "id": 1,
+      "applicant": "Barry Alan",
+      "description": "Testing",
+      "cv": "mycv.pdf",
+      "jobId": 1
+    },
+    {
+      "id": 2,
+      "applicant": "Barry Alan",
+      "description": "Testing",
+      "cv": "mycv.pdf",
+      "jobId": 2
+    },
+    {
+      "description": "My application with file",
+      "cv": "CV BD.pdf",
+      "applicant": "Barry Alan",
+      "jobId": 1,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Barry Alan",
+      "email": "balan@test.com",
+      "password": "test1234@B",
+      "userType": "seeker",
+      "favoritesId": [
+        2,
+        1
+      ],
+      "appliedId": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Bill Burr",
+      "email": "bburr@test.com",
+      "password": "test1234@B",
+      "userType": "poster",
+      "postsId": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Hello World",
+      "email": "hworld@test.com",
+      "password": "test1234@",
+      "userType": "poster",
+      "postsId": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "Tyler Craig",
+      "email": "tg@test.com",
+      "password": "test1234@",
+      "userType": "seeker",
+      "favoritesId": [
+        1,
+        2
+      ],
+      "appliedId": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "email": "bashkim@test.com",
+      "password": "12341654987",
+      "userType": "seeker",
+      "favoritesId": [],
+      "appliedId": [],
+      "id": 6
+    },
+    {
+      "email": "test@mail.com",
+      "password": "12345678",
+      "userType": "poster",
+      "postsId": [],
+      "id": 7
+    }
+  ]
+}
